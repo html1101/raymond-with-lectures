@@ -325,16 +325,16 @@ address like a phone number that you somehow already know.
 17 Ethernet Packets
 Ethernet packets are also called frames and sometimes datagrams. They are packets, not packages.
 An Ethernet frame contains:
-Preamble SFD Destination Source EtherType Payload FCS
-MAC MAC
+
+| Preamble + SFD | Destination MAC | Source MAC | EtherType | Payload | FCS
+
 17.1 Preamble and SFD
 The Ethernet preamble consists of repeating
 10101010...
 followed by an SFD:
 10101011
-Ethernet sits directly above the physical signal. It therefore needs to help the receiver determine where
-a packet begins and synchronize timing with the sender.
-The repeating pattern gives the receiver a known signal with which to establish bit timing. The change
+- Ethernet sits directly above the physical signal. It therefore needs to help the receiver determine where a packet begins and synchronize timing with the sender.
+- The repeating pattern gives the receiver a known signal with which to establish bit timing. The change
 at the SFD marks the beginning of the actual frame.
 17.2 Destination and source MAC addresses
 The destination MAC address identifies the host to which the packet is being sent.
