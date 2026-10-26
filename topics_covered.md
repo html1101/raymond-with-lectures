@@ -28,21 +28,21 @@
 - [★☆☆☆☆] Frames
 - [★☆☆☆☆] MAC Addresses
 - [☆☆☆☆☆] Broadcast Routing
-- [☆☆☆☆☆] Learning Switch
-- [☆☆☆☆☆] Distributed Spanning Tree
+- [★★☆☆☆] Learning Switch
+- [★★☆☆☆] Distributed Spanning Tree
 - [☆☆☆☆☆] Routing Algorithms and their Properties
 
 ## Lecture 4
-- [☆☆☆☆☆] Distance Vector Algorithm
+- [★★☆☆☆] Distance Vector Algorithm
 - [☆☆☆☆☆] Distance Vector Design Tradeoffs
-- [☆☆☆☆☆] Count to Infinity Problem
+- [★☆☆☆☆] Count to Infinity Problem
 - [☆☆☆☆☆] Max Link Weights
-- [☆☆☆☆☆] Poison Reverse
+- [★★☆☆☆] Poison Reverse
 - [☆☆☆☆☆] Hold Down Timers
 - [☆☆☆☆☆] RIP
 - [☆☆☆☆☆] Link State Algorithm
 - [☆☆☆☆☆] Link State Design Tradeoffs
-- [☆☆☆☆☆] Dijkstra's Algorithm
+- [★★☆☆☆] Dijkstra's Algorithm
 - [☆☆☆☆☆] Centralized Networking & Global Views
 - [☆☆☆☆☆] OSPF
 

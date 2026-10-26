@@ -72,6 +72,49 @@
 - Policy Routing
 - BGP (eBGP, iBGP, IGP)
 
+## Lectures 7-9
+- TCP
+
+## Lecture 8
+- Second Look at Layering: TRANSPORT, APP
+- Multiplexing/Demultiplexing
+- Service Model (Connection vs Connectionless; Reliable vs Unreliable; Data Abstraction)
+- UDP
+- Windowing
+- Go-Back-N
+- Selective Repeat
+- Sequence Numbers
+- ACK vs NACK
+- Cumulative ACK
+- Flow Control
+- BDP and Window Size
+
+## Lecture 10
+- Fast Recovery
+- BDP
+- AIMD
+- Slow Start
+- TCP State Machine
+- Chiu and Jain
+- Mathis Model
+- Reno shortcomings
+- Cubic: Big idea
+- BBR: Big idea
+- Cumulative Acks and Sequence Numbers
+- Setup & Three Way Handshake
+- Teardown
+
+## Lecture 11
+- Max-Min Fairness
+- RTT Fairness
+- Fair Queueing
+- Token Buckets
+- Network Calculus Basics
+- Work Conserving Schedules
+- Water Filling Algorithm
+
+## Lecture 12: Applications and the DNS
+
 ## P1
 
 ### Spanning Tree Protocol
